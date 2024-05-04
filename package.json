@@ -2,6 +2,7 @@
   "name": "sample-react-typescript-githubpages",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://kinneko-de.github.io/sample-react-typescript-githubpages/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
